@@ -1,2 +1,2 @@
-# uid
-uid database
+# uid database
+BAPAK KAU LA KTL
